@@ -26,4 +26,5 @@ El objeto principal del evento, consiste en la elaboración de una puesta en esc
   
 ## Enlaces de interés
 [Repositorio principal del evento](https://github.com/CoEValencia/Hackathon_2017)
+
 [Enlace web Capgemini Game Of Cloud](https://www.capgemini.com/es-es/events/game-of-cloud/)
